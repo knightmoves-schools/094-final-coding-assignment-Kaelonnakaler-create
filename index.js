@@ -11,4 +11,14 @@
 <style>
   
   .bullet-point {
-list-style-type: coffee;
+list-style-type: none;
+}
+
+.circle-point {
+list-style-type: circle;
+}
+
+roman-point {
+list-style-type: none;
+}  
+document.getElementById("result").innerHTML = none;
